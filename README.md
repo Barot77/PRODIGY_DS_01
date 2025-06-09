@@ -1,5 +1,7 @@
 Prodigy Infotech - Data Science Internship
+
 Track Code: PRODIGY_DS_01
+
 Task: Visualizing Distribution with Bar Chart / Histogram
 
 📌 About the Task
